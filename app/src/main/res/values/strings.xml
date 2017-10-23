@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Session16Assignment2</string>
+    <string name="download_button">Start Parallel Download</string>
 </resources>
